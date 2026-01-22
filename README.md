@@ -26,5 +26,3 @@ The chatbot maintains a simple chat history and provides a clean UI similar to C
 
 ---
 
-## 📂 Project Structure
-
